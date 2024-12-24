@@ -1,19 +1,14 @@
 
+
+# 服务器代理服务
+
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
+
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
+
 ## Frp服务端一键配置脚本，脚本默認获取Frp最新版本  
-## Frp server one-click configuration script. The script obtains the latest Frp version by default
-
-[![GitHub Repo][repo-shield]][repo-url]
-[![Stars][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-
-[repo-shield]: https://img.shields.io/badge/GitHub-mvscode%2Ffrps--onekey-brightgreen?style=flat-square&logo=github
-[repo-url]: https://github.com/mvscode/frps-onekey
-[stars-shield]: https://img.shields.io/github/stars/mvscode/frps-onekey.svg?style=flat-square&logo=github&color=yellow
-[stars-url]: https://github.com/mvscode/frps-onekey/stargazers
-[forks-shield]: https://img.shields.io/github/forks/mvscode/frps-onekey.svg?style=flat-square&logo=github&color=green
-[forks-url]: https://github.com/mvscode/frps-onekey/network/members
-
-
 *Frp 是一个高性能的反向代理应用，可以帮助您轻松地进行内网穿透，对外网提供服务，支持 tcp, http, https 等协议类型，并且 web 服务支持根据域名进行路由转发。*
 
 * Detail(详情)：fatedier[<img alt="github" src="https://img.shields.io/badge/github/fatedier/frp-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="16">](https://github.com/fatedier/frp)
